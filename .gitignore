@@ -1,0 +1,4 @@
+.terraform/
+.terraform.lock.hcl
+/environments/dev/.terragrunt-cache/
+/environments/dev/.terraform.lock.hcl/
